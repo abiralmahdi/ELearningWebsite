@@ -1,0 +1,6 @@
+1. Integrate a payment Gateway
+2. Generate Temporary URLs for the quizzing part
+3. Add Links to the registered courses
+4. Recheck The user authentication for the restricted urls
+5. Convert the database from SQLite to MySQL
+6. Launch trial and testings on the website
